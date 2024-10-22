@@ -1,3 +1,11 @@
 env/
 ChargePrediction.egg-info/
 insurance.csv
+artifacts/
+experiment/logs/
+logs/
+src/components/__pycache__/
+src/exception/__pycache__/
+src/logger/__pycache__/
+src/pipeline/__pycache__/
+src/utils/__pycache__/
