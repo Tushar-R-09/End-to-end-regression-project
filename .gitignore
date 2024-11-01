@@ -9,3 +9,4 @@ src/exception/__pycache__/
 src/logger/__pycache__/
 src/pipeline/__pycache__/
 src/utils/__pycache__/
+mlruns/
